@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+    It create a new folder name ".git" which are suppose to hold all the
+commits. Creating the repository help you keep track of the changes you made
+to you file, it will come in handy if needed to fix some bug in your code.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+    The staging area didn't hold files like the working directory or hold commit
+like the repository. The staging area is to keep track of the files that going to
+be commit.
