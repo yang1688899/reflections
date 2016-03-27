@@ -1,0 +1,32 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+    If you are using diff to viewing the difference between two file, it will save you a lot of time,
+reduces the amount of work you need to do.
+
+
+How could having easy access to the entire history of a file make you more efficient programmer in
+the long term?
+    By having the easy access to the entire history of a file making you more easily compare difference
+vision of your codes so that you could find out which part of you codes having the wrong behavior,
+which could make your work better.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in
+git, vs having versions automatically saved, like Google Docs does?
+    Manually choosing when to create commit could provide more freedom on whether to creating a commit
+ and could avoid the unnecessary commit that may cloud your judgement. But since it could not automatically
+save the file, you may miss some files that you are suppose to saved.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+    Because the version control systems like Google Docs, is mainly dealing whit files are independent from
+anther files, while the version control systems like Git are more likely encounter some related files that if
+saved sperately, it will cost some extra time to track them dowm.
+
+How can you use commands git log and git diff to view the history of files?
+    Just type git log in the bush and run it!!!
+
+How might using version control make you more confident to make changes that could break something?
+    Since reguardless what changes you made, you could just restord it in a sec, which make you need
+not to worrry about anything when you made any changes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+    Using git as a version control system to make yourself a better programmer.
